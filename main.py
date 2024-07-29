@@ -4,7 +4,6 @@ from selenium.webdriver import Chrome, ChromeOptions
 from selenium.webdriver.common.by import By
 from urllib.parse import urlparse
 from time import sleep
-from replit import db
 
 from localstorage import LocalStorage
 
